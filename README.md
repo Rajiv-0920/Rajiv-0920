@@ -1,5 +1,5 @@
 <div>
-  <a href="https://rajiv-0920.github.io/Portfolio/" target="_blank"><img src="./name.svg" style="align:center"></a>
+  <img src="./name.svg" style="align:center">
   
 ----------------------------------------------------------------
   
@@ -10,9 +10,9 @@
   
   <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
   
-  - 🌱 I’m currently learning **Diving into the MERN stack (MongoDB, Express.js, React, Node.js) to build full-stack web applications.**
+  - 🌱 I’m currently learning **the MERN stack**
   
-  - 👨‍💻 All of my projects are available at **[Explore my work on my portfolio](https://rajiv-0920.github.io/Portfolio/)**
+  - 👨‍💻 All of my projects are available at **[ my portfolio](https://rajiv-0920.github.io/Portfolio/)**
   
   - 💬 Ask me about **HTML, CSS, and JavaScript for building responsive and interactive websites.**
   
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/rajiv-0920/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/rajiv_0920"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
   
-  <br>
+<br>
   
   [![GitHub Rajiv](https://img.shields.io/github/followers/rajiv-0920?label=follow&style=social)](https://github.com/rajiv-0920)
 </div>
@@ -49,17 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div></p>
   
-  ###
-  
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="rajiv-0920" /></p>
-  
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
-  
-  <p><img src="https://github-readme-stats.vercel.app/api?username=rajiv-0920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
-</div>
-  
-  <br clear="both">
+ <br clear="both">
   
   ## 🗂️ Highlight Projects
   
@@ -68,21 +58,34 @@
   </a>
   
   <br>
+  <br>
   
   <a href="https://github.com/rajiv-0920/Rest-Countries-Api-With-Color-Theme-Switcher-Master">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajiv-0920&repo=Rest-Countries-Api-With-Color-Theme-Switcher-Master&show_icons=true&line_height=27&title_color=ff6e96&text_color=8a919a&icon_color=ff6e96&bg_color=282a36" alt="Rest Countries API"/>
   </a>
   
   <br>
+  <br>
   
   <a href="https://github.com/rajiv-0920/tic-tac-toe">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajiv-0920&repo=Tic-Tac-Toe&show_icons=true&line_height=27&title_color=ff6e96&text_color=8a919a&icon_color=ff6e96&bg_color=282a36" alt="Tic Tac Toe" />
   </a>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
   
-  ##
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="rajiv-0920" /></p>
   
-  ##
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
   
+  <p><img src="https://github-readme-stats.vercel.app/api?username=rajiv-0920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/></p>
+</div>
+  
+ 
   <img width="100%" src="https://profile-readme-generator.com/assets/snake.svg">
   
 </div>
