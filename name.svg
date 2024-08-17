@@ -1,6 +1,13 @@
 <svg viewBox="0 0 400 200" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <!-- Define the keyframes for the outline appearance and disappearance -->
+        <!-- Define the gradient for the outline -->
+        <linearGradient id="gradientOutline" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#F9E400; stop-opacity:1" />
+            <stop offset="50%" style="stop-color:#FF9C00; stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#F7A800; stop-opacity:1" />
+        </linearGradient>
+
+        <!-- Define the keyframes for the outline animation -->
         <style>
             @keyframes drawAndErase {
                 0% {
@@ -9,7 +16,7 @@
                 }
 
                 50% {
-                    stroke-dasharray: 1000;
+                    stroke-dasharray: 0;
                     stroke-dashoffset: 0;
                 }
 
@@ -19,21 +26,37 @@
                 }
             }
 
+            @keyframes gradientAnimation {
+                0% {
+                    stroke: url(#gradientOutline);
+                }
+
+                50% {
+                    stroke: url(#gradientOutline);
+                    stroke-dashoffset: 0;
+                }
+
+                100% {
+                    stroke: url(#gradientOutline);
+                }
+            }
+
             .animated-outline {
                 fill: none;
-                stroke: #F9E400;
-                /* Outline color */
+                stroke: url(#gradientOutline);
+                /* Gradient outline color */
                 stroke-width: 1;
+                /* Adjusted stroke width */
                 stroke-linejoin: round;
                 stroke-linecap: round;
                 stroke-dasharray: 1000;
                 stroke-dashoffset: 1000;
-                animation: drawAndErase 5s ease-in-out infinite;
+                animation: drawAndErase 5s ease-in-out infinite, gradientAnimation 5s linear infinite;
             }
         </style>
     </defs>
 
-    <!-- Draw the text with animated outline -->
+    <!-- Draw the text with animated gradient outline -->
     <text x="50" y="100" font-family="BlackChancery" font-size="60" class="animated-outline">
         Rajiv Kumar
     </text>
