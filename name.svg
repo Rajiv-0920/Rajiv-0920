@@ -1,0 +1,40 @@
+<svg viewBox="0 0 400 200" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Define the keyframes for the outline appearance and disappearance -->
+        <style>
+            @keyframes drawAndErase {
+                0% {
+                    stroke-dasharray: 1000;
+                    stroke-dashoffset: 1000;
+                }
+
+                50% {
+                    stroke-dasharray: 1000;
+                    stroke-dashoffset: 0;
+                }
+
+                100% {
+                    stroke-dasharray: 1000;
+                    stroke-dashoffset: 1000;
+                }
+            }
+
+            .animated-outline {
+                fill: none;
+                stroke: #F9E400;
+                /* Outline color */
+                stroke-width: 1;
+                stroke-linejoin: round;
+                stroke-linecap: round;
+                stroke-dasharray: 1000;
+                stroke-dashoffset: 1000;
+                animation: drawAndErase 5s ease-in-out infinite;
+            }
+        </style>
+    </defs>
+
+    <!-- Draw the text with animated outline -->
+    <text x="50" y="100" font-family="BlackChancery" font-size="60" class="animated-outline">
+        Rajiv Kumar
+    </text>
+</svg>
