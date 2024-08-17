@@ -1,5 +1,5 @@
 <div>
-  <a href="https://rajiv-0920.github.io/Portfolio/"><img src="./name.svg" style="align:center"></a>
+  <a href="https://rajiv-0920.github.io/Portfolio/" target="_blank"><img src="./name.svg" style="align:center"></a>
   
 ----------------------------------------------------------------
   
