@@ -1,5 +1,5 @@
 <div>
-  ![Rajiv Kumar](<img src="./name.svg" style="align:center">)[https://rajiv-0920.github.io/Portfolio/]
+  ![Rajiv Kumar](<img src="./name.svg" style="align:center">[https://rajiv-0920.github.io/Portfolio/])
   
 ----------------------------------------------------------------
   
