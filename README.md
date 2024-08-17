@@ -5,6 +5,8 @@
 <h1 align="center">Hi there, I'm Rajiv Kumar👋</h1>
 <h3 align="center">Web Developer | Crafting Responsive Websites with HTML, CSS & JavaScript</h3>
 
+<img align="right" height="250" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
+
 <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
 
 - 🌱 I’m currently learning **Diving into the MERN stack (MongoDB, Express.js, React, Node.js) to build full-stack web applications.**
@@ -46,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div></p>
 
-----------------------------------------------------------------
 ###
 
 <div align="center">
@@ -56,8 +57,6 @@
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=rajiv-0920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
 </div>
-
-<img align="right" height="250" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
 
 <br clear="both">
 
