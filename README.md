@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Rajiv Kumar👋</h1>
 <h3 align="center">Web Developer | Crafting Responsive Websites with HTML, CSS & JavaScript</h3>
 
-<img align="right" height="250" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
+<img align="right" height="200" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
 
 <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
 
