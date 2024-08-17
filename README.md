@@ -1,7 +1,7 @@
 <div>
   <img src="./name.svg" style="align:center">
   
-  ----------------------------------------------------------------
+----------------------------------------------------------------
   
   <h1 align="center">Hi there, I'm Rajiv Kumar👋</h1>
   <h3 align="center">Web Developer | Crafting Responsive Websites with HTML, CSS & JavaScript</h3>
