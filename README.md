@@ -10,7 +10,7 @@
   
   <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
   
-  - 🌱 I’m currently learning **the MERN stack <img src="https://loading.io/icon/umst6">**
+  - 🌱 I’m currently learning **the MERN stack**
   
   - 👨‍💻 All of my projects are available at **[ my portfolio](https://rajiv-0920.github.io/Portfolio/)**
   
