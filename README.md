@@ -16,7 +16,7 @@
   
   - 💬 Ask me about **HTML, CSS, and JavaScript for building responsive and interactive websites.**
   
-  - 📫 How to reach me **Message me on [Discord](https://discordapp.com/users/rajiv0920).**
+  - 📫 How to reach me **Message me on [Discord](https://discord.com/users/1114626332438036511).**
   
   - 📄 Know about my experiences **[Check out my experiences and projects on my portfolio](https://rajiv-0920.github.io/Portfolio/)**
   
