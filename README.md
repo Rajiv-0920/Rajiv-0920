@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<img align="center" src="https://profile-counter.glitch.me/rajiv-0920/count.svg">
   
  <br clear="both">
   
