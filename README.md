@@ -51,8 +51,6 @@
 
 <img align="center" src="https://profile-counter.glitch.me/rajiv-0920/count.svg">
 
-[![Visits Badge](https://badges.pufler.dev/visits/rajiv-0920/rajiv-0920)](https://rajiv-0920.com)
-
  <br clear="both">
   
   ## 🗂️ Highlight Projects
