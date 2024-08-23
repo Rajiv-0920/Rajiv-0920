@@ -5,7 +5,7 @@
   
   <h1 align="center">Hi there, I'm Rajiv Kumar👋</h1>
   <h3 align="center">Web Developer | Crafting Responsive Websites with HTML, CSS & JavaScript</h3>
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajiv-0920&label=Profile%20views&color=0e75b6&style=flat" alt="rajiv-0920" /> </p>
   <img align="right" height="250" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
   
   <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
@@ -48,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div></p>
-
-<img align="center" src="https://profile-counter.glitch.me/rajiv-0920/count.svg">
 
  <br clear="both">
   
