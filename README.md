@@ -1,91 +1,50 @@
-<div>
-  <img src="./name.svg" style="align:center">
-  
-----------------------------------------------------------------
-  
-  <h1 align="center">Hi there, I'm Rajiv Kumar👋</h1>
-  <h3 align="center">Web Developer | Crafting Responsive Websites with HTML, CSS & JavaScript</h3>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajiv-0920&label=Profile%20views&color=0e75b6&style=flat" alt="rajiv-0920" /> </p>
-  <img align="right" height="250" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"  />
-  
-  <p align="left"> <a href="https://twitter.com/rajiv_0920" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv_0920?logo=twitter&style=for-the-badge" alt="rajiv_0920" /></a> </p>
-  
-  - 🌱 I’m currently learning **the MERN stack**
-  
-  - 👨‍💻 All of my projects are available at **[ my portfolio](https://rajiv-0920.github.io/Portfolio/)**
-  
-  - 💬 Ask me about **HTML, CSS, and JavaScript for building responsive and interactive websites.**
-  
-  - 📫 How to reach me **Message me on [Discord](https://discord.com/users/1114626332438036511).**
-  
-  - 📄 Know about my experiences **[Check out my experiences and projects on my portfolio](https://rajiv-0920.github.io/Portfolio/)**
-  
-  - ⚡ Fun fact **I’ve made a website that changes its color scheme every few seconds just for fun!**
-  
-  <h3 align="left">Connect with me:</h3>
-  
-<div align="left">
-  <a href="https://discord.com/users/1114626332438036511"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://www.linkedin.com/in/rajiv-0920/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/rajiv_0920"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-  
-<br>
-  
-  [![GitHub Rajiv](https://img.shields.io/github/followers/rajiv-0920?label=follow&style=social)](https://github.com/rajiv-0920)
-</div>
-  
-</p>
-  
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div></p>
+# Hey, I'm Rajiv 👋
 
- <br clear="both">
-  
-  ## 🗂️ Highlight Projects
-  
-  <a href="https://github.com/rajiv-0920/portfolio">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajiv-0920&repo=portfolio&show_icons=true&line_height=27&title_color=ff6e96&text_color=8a919a&icon_color=ff6e96&bg_color=282a36" alt="Portfolio" />
-  </a>
-  
-  <br>
-  <br>
-  
-  <a href="https://github.com/rajiv-0920/Rest-Countries-Api-With-Color-Theme-Switcher-Master">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajiv-0920&repo=Rest-Countries-Api-With-Color-Theme-Switcher-Master&show_icons=true&line_height=27&title_color=ff6e96&text_color=8a919a&icon_color=ff6e96&bg_color=282a36" alt="Rest Countries API"/>
-  </a>
-  
-  <br>
-  <br>
-  
-  <a href="https://github.com/rajiv-0920/tic-tac-toe">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajiv-0920&repo=Tic-Tac-Toe&show_icons=true&line_height=27&title_color=ff6e96&text_color=8a919a&icon_color=ff6e96&bg_color=282a36" alt="Tic Tac Toe" />
-  </a>
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a knack for building responsive, user-friendly web applications. I love turning ideas into reality with clean code and modern technologies. Currently, I'm working on projects like **NoteNest**, a note-taking web app, and exploring new ways to solve real-world problems through tech.
 
-<br>
-<br>
-<hr>
-<br>
-<br>
-  
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="rajiv-0920" /></p>
-  
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajiv-0920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
-  
-  <p><img src="https://github-readme-stats.vercel.app/api?username=rajiv-0920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/></p>
-</div>
-  
- 
-  <img width="100%" src="https://profile-readme-generator.com/assets/snake.svg">
-  
-</div>
+## 🚀 About Me
+- 🌍 Based in India
+- 💻 Specializing in **HTML, CSS, JavaScript, Tailwind CSS**, and full-stack development with **React, Node.js, Express.js, MongoDB**
+- 🎯 Passionate about creating intuitive UIs, scalable APIs, and seamless user experiences
+- 📚 Always learning—currently diving deeper into authentication, state management, and frontend frameworks
+- 💡 Fun fact: I enjoy experimenting with Markdown rendering and responsive design!
+
+## 🛠️ Featured Projects
+
+### [NoteNest](https://github.com/Rajiv-0920/NoteNest)
+A responsive note-taking web app built with **MongoDB, Express.js, React, Node.js and Tailwind CSS**. Features include:
+- **Clean UI**: Minimalist design with dark/light/system theme support using Tailwind CSS
+- **Responsive Layout**: Works seamlessly on mobile, tablet, and desktop
+- **Authentication**: Login and signup pages with a sleek interface
+- **Error Handling**: Custom 404 page for a polished user experience
+- **Future Plans**: Adding Markdown rendering, a dashboard for note management, and cloud syncing
+
+Check out the [repository](https://github.com/Rajiv-0920/NoteNest) and try the [live demo](https://notenest-nzr0.onrender.com/)!
+
+### [Product Store](https://github.com/Rajiv-0920/product-store)
+An e-commerce platform built with the **MERN stack** (MongoDB, Express.js, React, Node.js). Key features:
+- **Full CRUD Operations**: Manage products with RESTful APIs
+- **Image Uploads**: Integrated Cloudinary and DropZone for seamless uploads
+- **Responsive UI**: Built with Material-UI and React Router
+- **Deployed on Render**: Scalable and live for testing
+
+Explore the [repository](https://github.com/Rajiv-0920/product-store) and [live demo](https://product-store-1-losf.onrender.com/)!
+
+## 🧰 Skills & Tools
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React, Material-UI, React Router
+- **Backend**: Node.js, Express.js, MongoDB, REST APIs
+- **Tools**: Git, GitHub CLI, VS Code, Postman, Cloudinary, Render
+- **Learning Next**: JWT authentication, rate limiting, Zustand for state management
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://linkedin.com/in/rajiv0920)
+- 📧 Email: [Rajiv Kumar](kumarrajiv0920@gmail.com)
+- 🌐 Portfolio: [Rajiv Kumar](https://rajiv-0920.github.io/Portfolio/)
+- 🐦 X: [@Rajiv0920](https://twitter.com/Rajiv0920)
+
+I'm always open to collaborating on exciting projects or discussing tech over a virtual coffee! Feel free to reach out or explore my repositories. 😄
+
+---
+
+⭐️ If you find my work inspiring, give my projects a star on GitHub!  
+*Last updated: May 2025*
